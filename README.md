@@ -48,7 +48,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Скриншоты для понятия схемы приложения
 
-![eventual consistency](./plan how it works.PNG)
+![eventual consistency](./plan.PNG)
 
 ###---------------------------------------
 
