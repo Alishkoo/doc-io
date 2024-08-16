@@ -34,3 +34,22 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Мои заметки для себя 
+
+Использовались следующие технологии:
+
+1. **Prisma** для базы данных в комбинации с **neon.tech PostgreSQL**
+2. **Tailwind CSS** для дизайна
+3. **tRPC** для запросов
+4. **Kinde** сервис для регистрации и фиксации пользователей
+
+
+### Скриншоты для понятия схемы приложения
+
+![eventual consistency](./plan how it works.PNG)
+
+###---------------------------------------
+
+![Dashboard](./dashboard.PNG)
